@@ -1,2 +1,0 @@
-C:\Users\David London\source\repos\ConsoleCalculator\Debug\ConsoleCalculator.exe
-C:\Users\David London\source\repos\ConsoleCalculator\Debug\ConsoleCalculator.pdb
